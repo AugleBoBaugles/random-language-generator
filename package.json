@@ -2,7 +2,7 @@
   "name": "random-language-generator",
   "version": "1.0.0",
   "description": "A small app that generates a random language from a list of known languages. Its original use to is to pick a known language to do daily leetcode problems with.",
-  "main": "index.js",
+  "main": "app.js",
   "type": "module",
   "license": "AGPL-version-3.0",
   "private": false,
@@ -20,11 +20,11 @@
   "author": {
     "name": "",
     "email": "augmarkham@gmail.com",
-    "url": ""
+    "url": "https://github.com/AugleBoBaugles/random-language-generator"
   },
   "contributors": [],
   "scripts": {
-    "dev": "",
+    "dev": "nodemon app.js",
     "test": ""
   },
   "dependencies": {
