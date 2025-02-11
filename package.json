@@ -1,0 +1,37 @@
+{
+  "name": "random-language-generator",
+  "version": "1.0.0",
+  "description": "A small app that generates a random language from a list of known languages. Its original use to is to pick a known language to do daily leetcode problems with.",
+  "main": "index.js",
+  "type": "module",
+  "license": "AGPL-version-3.0",
+  "private": false,
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "augmarkham@gmail.com",
+    "url": ""
+  },
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
